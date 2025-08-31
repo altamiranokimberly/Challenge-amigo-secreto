@@ -7,7 +7,9 @@
 ## :bulb: Instrucciones del proyecto 
 
 - `Instrucción 1`: Escribe el nombre de un amigo y presiona el botón para añadirlo.
+![alt text](image.png)
 - `Instrucción 2`: Presiona el botón naranja para que se seleccione un amigo al azar.
+![alt text](image-1.png)
 
 ## :hammer: Funcionalidades
 
